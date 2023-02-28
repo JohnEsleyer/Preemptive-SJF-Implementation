@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/john/Documents/cppEnv/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/main.dir/src/main.cpp.o -c /home/john/Documents/cppEnv/src/main.cpp",
+  "file": "/home/john/Documents/cppEnv/src/main.cpp"
+}
+]
